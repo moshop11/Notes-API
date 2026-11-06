@@ -1,4 +1,4 @@
-// Module 1 - Server~ Setup
+// Module 1 - Server Setup
 import express from "express";
 import dotenv from "dotenv";
 import connectDB from "./config/db.js";
